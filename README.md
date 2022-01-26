@@ -7,5 +7,5 @@ v14.18.0
 Make a copy .env.example file named .env and add a cluster or local url.
 
 ## Available Scripts
-npm install
-npm run dev
+1. npm install
+2. npm run dev
